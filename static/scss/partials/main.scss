@@ -323,9 +323,9 @@ button:active {
     max-width: $content-sm;
 }
 
-main,
-table {
+main, table {
     width: 100%;
+    transition: all .4s ease;
 }
 
 .relay-email-card {
